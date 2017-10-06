@@ -1,6 +1,5 @@
 # Movie Trailer
 
-Udacity Full-stack Program Project by Xilin Sun
 
 ## How to run it
 
